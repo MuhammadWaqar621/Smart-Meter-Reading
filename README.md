@@ -39,7 +39,51 @@ conda create -n smart_meter python=3.11.4
 conda activate smart_meter
 pip install -r requirements.txt
 ```
+3. Prepare Dataset
+```
+    Dataset/
+    │
+    ├── ROI_Dataset/
+    │   ├── images/
+    │   │   ├── img1.jpg
+    │   │   ├── img2.jpg
+    │   │   └── ...
+    │   │
+    │   └── labels/
+    │       ├── img1.txt
+    │       ├── img2.txt
+    │       └── ...
+    |
+    ├── OCR_Dataset/
+    │   ├── images/
+    │   │   ├── img1.jpg
+    │   │   ├── img2.jpg
+    │   │   └── ...
+    │   │
+    │   └── labels/
+    │       ├── img1.txt
+    │       ├── img2.txt
+    │       └── ...
+    
+```
 
+4. Training
+```
+
+```
+
+4. Training
+```
+
+```
+4. Integration
+```
+
+```
+5. FastAPI
+```
+
+```
 
 
 ## Contact
