@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 4. Training
 ```
-
+python train_ROI.py
 ```
 
 4. Training
