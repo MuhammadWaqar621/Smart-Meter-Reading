@@ -14,6 +14,19 @@ This repository encapsulates the Smart Meter Reader project, a solution designed
 
 - **Digit Recognition:** Employ advanced AI models to accurately recognize and interpret the digits within the cropped images, ensuring reliable meter readings.
 
+
+This project aims to automate smart meter reading using computer vision and optical character recognition (OCR). Below is the image processing flow:
+
+1. **Input Image:**
+   ![Input Image](https://github.com/MuhammadWaqar621/Smart-Meter-Reading/raw/master/TestImg/5.jpeg)
+
+2. **ROI Model Output:**
+   ![ROI Model Output](https://github.com/MuhammadWaqar621/Smart-Meter-Reading/raw/master/Test_OCR/5.jpg)
+
+3. **Final OCR Result:**
+   ![Final OCR Result](https://github.com/MuhammadWaqar621/Smart-Meter-Reading/raw/master/OCR_Result/5.jpg)
+
+
 ## Why It Matters
 
 In a world increasingly reliant on accurate and efficient utility management, Smart Meter Reader offers a transformative solution. By automating the digit reading process, we not only enhance accuracy but also pave the way for smart utility management systems.
