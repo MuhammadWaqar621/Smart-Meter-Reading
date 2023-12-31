@@ -69,20 +69,30 @@ pip install -r requirements.txt
 
 4. Training
 ```
+# Train the model for Area of Interest (ROI) detection
 python train_ROI.py
+
+# Train the model for Meter Digit Detection using Optical Character Recognition (OCR)
+python train_OCR.py
+
 ```
 
-4. Training
+4. Testing
 ```
+# Test the model for Area of Interest (ROI) detection
+python test_ROI.py
+
+# Test the model for Meter Digit Detection using Optical Character Recognition (OCR)
+python test_OCR.py
 
 ```
 4. Integration
 ```
-
+python main.py
 ```
 5. FastAPI
 ```
-
+uvicorn API:app --host 0.0.0.0 --port 1003 --reload
 ```
 
 
