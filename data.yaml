@@ -1,0 +1,8 @@
+train: D:\Forbmax User Data\waqar sahi\SmartMeter\yolo\Dataset\OCR\V8\train\images
+val: D:\Forbmax User Data\waqar sahi\SmartMeter\yolo\Dataset\OCR\V8\validate\images
+
+
+nc: 13
+names: ['-', '.', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '']
+
+  

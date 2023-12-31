@@ -1,0 +1,13 @@
+train: ../dataset/data/train.txt/
+val: ../dataset/data/validate.txt/
+test: ../dataset/data/test.txt/
+
+# number of classes
+nc: 5
+
+# class names
+names: ["hassan", 
+"zarar", 
+"waqar", 
+"Talha", 
+"Ali"]

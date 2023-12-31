@@ -1,2 +1,10 @@
 a.text
 Dataset/
+errorImages/
+Original Images/
+ROI_Model/
+OCR_Model/
+runs/
+Result/
+uploads/
+OCR_Result/
