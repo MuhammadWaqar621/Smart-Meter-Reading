@@ -103,7 +103,11 @@ python test_OCR.py
 ```
 python main.py
 ```
-5. FastAPI
+5. Download Pretrain Models
+```
+python .\model_checkpoints_download.py
+```
+6. FastAPI
 ```
 uvicorn API:app --host 0.0.0.0 --port 1003 --reload
 ```
